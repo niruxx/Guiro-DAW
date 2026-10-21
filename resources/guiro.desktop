@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Guiro
+GenericName=Digital Audio Workstation
+Comment=Pattern-based music production for Linux
+Exec=guiro %f
+Icon=guiro
+Terminal=false
+Categories=AudioVideo;Audio;Midi;Music;Sequencer;
+MimeType=application/x-guiro-project;
+Keywords=daw;music;beat;sequencer;sampler;vst;clap;lv2;
